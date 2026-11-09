@@ -1,0 +1,15 @@
+# Original source PDFs (copies live in files/)
+asset/
+
+# OS / editor / secrets
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+.env
+.env.*
+*.pem
+*.key
+node_modules/
+.omc/
